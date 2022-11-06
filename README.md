@@ -29,7 +29,7 @@ Languages and Tools:
     alt="javascript" width="40" height="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<br>![](https://activity-graph.herokuapp.com/graph?username=BalajiMalarkannan&theme=react-dark&area=true)
+<!-- <br>![](https://activity-graph.herokuapp.com/graph?username=BalajiMalarkannan&theme=react-dark&area=true) -->
 <!--
 **BalajiMalarkannan/BalajiMalarkannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
