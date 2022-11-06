@@ -2,12 +2,11 @@
 
 
 I'm
-Front-end developer
-I have a skills of Angular, HTML5, CSS3, Javascript.
+Front-end developer having a skills of Angular, HTML5, CSS3, Javascript.
 
 Languages and Tools: 
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
         
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
@@ -24,6 +23,7 @@ Languages and Tools:
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
     </a>
+    
     
 ![](https://activity-graph.herokuapp.com/graph?username=BalajiMalarkannan&theme=react-dark&area=true)
 <!--
