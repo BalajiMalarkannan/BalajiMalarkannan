@@ -4,6 +4,7 @@
 I'm
 Front-end developer
 I have a skills of Angular, HTML5, CSS3, Javascript.
+<!--![Visitor Count](https://profile-counter.glitch.me/BalajiMalarkannan/count.svg)-->
 
 Languages and Tools:
 
